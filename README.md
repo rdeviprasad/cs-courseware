@@ -1,2 +1,2 @@
 # cs-courseware
-Jotting down my notes for computer science
+This repo contains code that I have written to relearn computer science fundamentals
